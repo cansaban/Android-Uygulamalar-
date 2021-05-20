@@ -1,0 +1,3 @@
+rootProject.name='MyNewTravelBook'
+include ':app'
+include ':coolapp'
